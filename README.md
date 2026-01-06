@@ -1,2 +1,17 @@
-# cube-studio
-Cube Studio is a game engine 2D that you can create Sprites, CSScript/Lua/C++/Python/JS Scripts, Groups, Folders, TextUI, SpriteUI and CSScript LocalScripts! You can download it from Android and Windows 11 or use in web (it has limitations)!
+# Cube Studio
+Cube Studio is a 2D game engine, is free and is open-source!
+You can go to web!
+⚠️ But be careful, there is limitations:
+1. Don't have scene editor,
+2. Can't have CSScript/JS Scripts in eventsheet editor,
+3. Only have Editor Sprite, Editor Script and Editor EventSheet.
+
+---
+## This website is made in which game engine?
+This website is made in Flutter with Dart
+## What about the engine?
+It has 2 versions: Java version and C/C++ Version.
+
+---
+or try any script! Here is the link:
+[Script editor](SCRIPT.md)
