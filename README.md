@@ -11,7 +11,3 @@ You can go to web!
 This website is made in Flutter with Dart
 ## What about the engine?
 It has 2 versions: Java version and C/C++ Version.
-
----
-or try any script! Here is the link:
-[Script editor](SCRIPT.md)
